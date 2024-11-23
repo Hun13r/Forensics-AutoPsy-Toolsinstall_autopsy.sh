@@ -11,7 +11,7 @@ This script automates the installation of Autopsy on macOS. It performs the foll
 ## Creator Information
 - **Name:** Hun13r Forensics
 - **Email:** Admin@greaton.co.uk
-- **Company:** Greaton LTD Forensics
+- **Company:** Greaton Forensics
 - **Version:** 1.0
 
 ## Prerequisites
