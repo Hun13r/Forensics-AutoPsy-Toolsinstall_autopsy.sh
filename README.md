@@ -9,7 +9,7 @@ This script automates the installation of Autopsy on macOS. It performs the foll
 - Sets up the necessary environment variables for Java and Sleuth Kit.
 
 ## Creator Information
-- **Name:** Hun13r Forensics
+- **Name:** Hun13r
 - **Email:** Admin@greaton.co.uk
 - **Company:** Greaton Forensics
 - **Version:** 1.0
